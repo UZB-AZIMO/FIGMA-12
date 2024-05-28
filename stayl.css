@@ -58,6 +58,7 @@ cursor: pointer;
 @media (max-width:755px) {
     .footer{
         background-color: #013e94;
+        padding: 20px 0;
 
     }
     .footer__wrapper{
