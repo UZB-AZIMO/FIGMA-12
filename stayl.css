@@ -75,4 +75,10 @@ cursor: pointer;
     
     }
 
+    @media (max-width:455px) {
+        .footer{
+            padding: 5px 0;
+    
+        }
+    }
     
