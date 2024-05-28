@@ -1,4 +1,6 @@
 .footer{
+    margin-top: 20px;
+    padding: 20px;
     background-color: rgb(0, 26, 63);
 }
 .footer__wrapper{
@@ -8,6 +10,8 @@
 
 }
 .footer__img{
+ 
     width: 200px;
-    height: 200px;
+    background-color: rgb(0, 46, 110);
+
 }
