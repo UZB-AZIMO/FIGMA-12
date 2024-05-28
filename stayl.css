@@ -1,0 +1,13 @@
+.footer{
+    background-color: rgb(0, 26, 63);
+}
+.footer__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.footer__img{
+    width: 200px;
+    height: 200px;
+}
